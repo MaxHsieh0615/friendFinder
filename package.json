@@ -1,7 +1,7 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "description": "",
+  "description": "helps you find the best match",
   "main": "server.js",
   "dependencies": {
     "express": "^4.16.4",
