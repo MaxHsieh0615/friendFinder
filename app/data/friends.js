@@ -1,7 +1,7 @@
 var friends = [
     {
         name: "Bill",
-        photo: "https://en.wikipedia.org/wiki/Bill_Gates#/media/File:Bill_Gates_2018.jpg",
+        photo: "http://cdn.gospelherald.com/data/images/full/5749/bill-gates.jpg",
         scores: [
             "5",
             "5",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
         name: "Tim",
-        photo: "https://en.wikipedia.org/wiki/Tim_Cook#/media/File:Tim_Cook_2009_cropped.jpg",
+        photo: "https://cdn.vox-cdn.com/thumbor/nKw2IiwHAbBnpf5rx0FVi24OHjw=/0x0:1744x2328/1200x800/filters:focal(696x376:974x654)/cdn.vox-cdn.com/uploads/chorus_image/image/59166065/Tim_Cook_headshot_straight.0.jpg",
         scores: [
             "3",
             "3",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
         name: "Jeff",
-        photo: "https://en.wikipedia.org/wiki/Jeff_Bezos#/media/File:Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_(39074799225)_(cropped).jpg",
+        photo: "https://specials-images.forbesimg.com/imageserve/5b8eb1b3a7ea434b99d54b36/960x0.jpg?fit=scale",
         scores: [
             "3",
             "5",
@@ -49,7 +49,7 @@ var friends = [
     },
     {
         name: "Michael",
-        photo: "https://en.wikipedia.org/wiki/File:Michael_Jordan_in_2014.jpg",
+        photo: "https://cdn.nba.net/nba-drupal-prod/styles/landscape/http/i2.cdn.turner.com/nba/nba/dam/assets/160530160053-michael-jordan-1992.1280x720.jpg?itok=zPRIGu1T",
         scores: [
             "2",
             "2",
@@ -65,7 +65,7 @@ var friends = [
     },
     {
         name: "Clint",
-        photo: "https://en.wikipedia.org/wiki/Clint_Eastwood#/media/File:Clint_Eastwood_at_2010_New_York_Film_Festival.jpg",
+        photo: "https://static.politico.com/dims4/default/59a41fc/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb2%2Fdf%2Fda81b5c24033a54c3e015c688c90%2F160207-bill-clinton-ap-1160.jpg",
         scores: [
             "4",
             "5",
